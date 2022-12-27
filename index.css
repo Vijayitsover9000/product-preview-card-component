@@ -98,6 +98,9 @@ body{
     justify-content: center;
     transition: all 0.3s;
 }
+.btn img{
+    align-self: center;
+}
 .btn:hover{
     /* background-color: hsl(228, 12%, 48%); */
     background-color: hsl(158, 39%, 24%);
