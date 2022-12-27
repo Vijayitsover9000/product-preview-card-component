@@ -9,15 +9,15 @@ Users should be able to:
 
 ### Screenshot
 
-![is supposed to be a a screenshot](./Screenshot 2022-12-27 at 13-08-05 Frontend Mentor Product preview card component.png)
+  <a href="https://www.dailyrandomphoto.com/p/2022/2022-12-27/"><img src="./screenshotvj.png" width="600px"></a>
 
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/Vijayitsover9000/product-preview-card-component)
+- Live Site URL: [Live site URL here](https://vijayitsover9000.github.io/product-preview-card-component/)
 
 ## My process
 
@@ -49,7 +49,7 @@ freecodecamp
 
 ## Author
 
-- Website - [Bijay Kumar sah](https://www.your-site.com)
+- Website - [Bijay Kumar sah](https://vijayitsover9000.github.io/Vijayitsover9000/)
 - Frontend Mentor - [@Vijayitsover9000](https://www.frontendmentor.io/profile/yourusername)
 
 
