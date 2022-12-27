@@ -99,7 +99,7 @@ body{
     transition: all 0.3s;
 }
 .btn img{
-    align-self: center;
+    align-self: center!important;
 }
 .btn:hover{
     /* background-color: hsl(228, 12%, 48%); */
