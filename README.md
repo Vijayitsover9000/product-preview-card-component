@@ -9,7 +9,7 @@ Users should be able to:
 
 ### Screenshot
 
-  <a href="https://www.dailyrandomphoto.com/p/2022/2022-12-27/"><img src="https://images.unsplash.com/photo-1670954208723-d297a0d9ffc3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTY3MjEwMTEwOQ&ixlib=rb-4.0.3&q=80&w=1080" width="600px"></a>
+  <a href="https://www.dailyrandomphoto.com/p/2022/2022-12-27/"><img src="./screenshotvj.png" width="600px"></a>
 
 
 
