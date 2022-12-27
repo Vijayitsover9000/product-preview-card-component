@@ -83,7 +83,7 @@ body{
     text-decoration: line-through;
 }
 .btn{
-    padding:15px;
+    padding:10px;
     margin: 10px;
     margin-top:15px;
     border-radius: 5px;
@@ -92,7 +92,7 @@ body{
     color: hsl(0, 0%, 100%);
     font-family: 'Montserrat', sans-serif;
     font-weight:700;
-    font-size:14px;
+    font-size:16px;
     display: flex;
     flex-direction:row;
     justify-content: center;
