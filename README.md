@@ -9,7 +9,7 @@ Users should be able to:
 
 ### Screenshot
 
-!  [is supposed to be a a screenshot](./Screenshot 2022-12-27 at 13-08-05 Frontend Mentor Product preview card component.png)
+  [is supposed to be a a screenshot](./Screenshot 2022-12-27 at 13-08-05 Frontend Mentor Product preview card component.png)
 
 
 
